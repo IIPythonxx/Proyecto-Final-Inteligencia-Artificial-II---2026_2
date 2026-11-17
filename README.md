@@ -1,7 +1,3 @@
-# Proyecto-Final-Inteligencia-Artificial-II---2026_2
-Repositorio con los archivos correspondientes a nuestro proyecto final de IA2.
-
-
 # Clasificación de retinopatía diabética en fotos de fondo de ojo (APTOS 2019)
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USUARIO/REPO/blob/main/IA2_DR_APTOS_final.ipynb)
